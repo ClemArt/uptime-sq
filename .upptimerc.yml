@@ -5,8 +5,8 @@ repo: uptime-sq # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
+#  - name: Wikipedia
+#    url: https://en.wikipedia.org
   - name: Geremy
     url: $GEREMY_SECRET_ENDPOINT
 
