@@ -8,7 +8,7 @@ sites:
   - name: SQ Main backend
     url: $G_BACKEND_SECRET_ENDPOINT
 #  - name: Bedrock
-#    url: $GEREMY_BEDROCK_CHECK_ENDPOINT
+#    url: $G_BEDROCK_CHECK_ENDPOINT
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
