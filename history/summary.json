@@ -10,29 +10,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 100,
-    "timeDay": 91,
-    "timeWeek": 100,
-    "timeMonth": 100,
-    "timeYear": 100,
+    "time": 103,
+    "timeDay": 109,
+    "timeWeek": 103,
+    "timeMonth": 103,
+    "timeYear": 103,
     "dailyMinutesDown": {}
   },
   {
     "name": "SQ Main backend",
-    "url": "$GEREMY_SECRET_ENDPOINT",
+    "url": "$G_BACKEND_SECRET_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sq-main-backend",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "97.65%",
+    "uptimeDay": "97.65%",
+    "uptimeWeek": "97.65%",
+    "uptimeMonth": "97.65%",
+    "uptimeYear": "97.65%",
     "time": 746,
     "timeDay": 746,
     "timeWeek": 746,
     "timeMonth": 746,
     "timeYear": 746,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-05": 0
+    }
   }
 ]
