@@ -23,18 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sq-main-backend",
     "status": "up",
-    "uptime": "64.15%",
-    "uptimeDay": "64.15%",
-    "uptimeWeek": "64.15%",
-    "uptimeMonth": "64.15%",
-    "uptimeYear": "64.15%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 799,
     "timeDay": 799,
     "timeWeek": 799,
     "timeMonth": 799,
     "timeYear": 799,
-    "dailyMinutesDown": {
-      "2025-06-05": 1
-    }
+    "dailyMinutesDown": {}
   }
 ]
