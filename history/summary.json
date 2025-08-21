@@ -4,18 +4,20 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 94,
-    "timeDay": 106,
-    "timeWeek": 90,
+    "time": 95,
+    "timeDay": 112,
+    "timeWeek": 91,
     "timeMonth": 93,
-    "timeYear": 94,
-    "dailyMinutesDown": {}
+    "timeYear": 95,
+    "dailyMinutesDown": {
+      "2025-08-21": 0
+    }
   },
   {
     "name": "SQ Main backend",
@@ -28,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 865,
-    "timeDay": 900,
+    "time": 866,
+    "timeDay": 899,
     "timeWeek": 869,
     "timeMonth": 868,
-    "timeYear": 865,
+    "timeYear": 866,
     "dailyMinutesDown": {}
   }
 ]
