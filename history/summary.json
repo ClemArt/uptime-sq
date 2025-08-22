@@ -6,18 +6,16 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 95,
-    "timeDay": 117,
+    "timeDay": 104,
     "timeWeek": 92,
     "timeMonth": 94,
     "timeYear": 95,
-    "dailyMinutesDown": {
-      "2025-08-21": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SQ Main backend",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 866,
-    "timeDay": 894,
-    "timeWeek": 870,
-    "timeMonth": 869,
-    "timeYear": 866,
+    "time": 865,
+    "timeDay": 853,
+    "timeWeek": 868,
+    "timeMonth": 868,
+    "timeYear": 865,
     "dailyMinutesDown": {}
   }
 ]
