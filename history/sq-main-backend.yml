@@ -1,7 +1,7 @@
 url: $G_BACKEND_SECRET_ENDPOINT
 status: up
 code: 200
-responseTime: 993
-lastUpdated: 2025-10-01T05:56:50.944Z
+responseTime: 939
+lastUpdated: 2025-10-01T06:57:06.408Z
 startTime: 2025-06-05T08:10:13.261Z
 generator: Upptime <https://github.com/upptime/upptime>
