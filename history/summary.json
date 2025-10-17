@@ -22,17 +22,19 @@
     "url": "$G_BACKEND_SECRET_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sq-main-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 895,
-    "timeDay": 1010,
-    "timeWeek": 987,
-    "timeMonth": 935,
+    "timeDay": 1012,
+    "timeWeek": 989,
+    "timeMonth": 936,
     "timeYear": 895,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-17": 0
+    }
   }
 ]
